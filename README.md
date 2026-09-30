@@ -23,7 +23,7 @@ Node.js · Inquirer · Jest · HTML · CSS
 **Prerequisites:** Node.js
 
 ```bash
-git clone https://github.com/Archils/Team-Profile-Generator.git
+git clone https://github.com/Archo2/Team-Profile-Generator.git
 cd Team-Profile-Generator
 npm install
 npm start
@@ -46,5 +46,5 @@ npx jest _test_
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
